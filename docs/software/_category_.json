@@ -1,0 +1,8 @@
+{
+  "label": "Software",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Edon is a design and development editor for the React framework that leverages drag-and-drop functionality, enabling developers and designers to quickly create custom pages and components.\n This software generates clean, extensible code, optimizing the UI design process and allowing the use of any UI Kit of your choice."
+  }
+}
