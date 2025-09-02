@@ -43,7 +43,7 @@ jobs:
             ${{ runner.os }}-node-
       - name: Install dependencies and build
         run: |
-          npm install
+          npm install --force 
           npm run build # Replace with your build command
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
