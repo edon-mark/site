@@ -36,8 +36,4 @@ After reviewing your request, we may invite you to join the project development 
 
 📧 Contact Email:
 
-```
-
 [edonapp237@gmail.com](mailto:edonapp237@gmail.com)
-
-```
