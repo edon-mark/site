@@ -11,32 +11,36 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Easy to Use",
+    title: "Drag and drop",
     Svg: require("@site/static/img/logo.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Design user interfaces quickly with a fast and intuitive drag-and-drop
+        system, eliminating the need for complex coding. This feature makes the
+        design process simple and enjoyable.
       </>
     ),
   },
   {
-    title: "Focus on What Matters",
+    title: "UI Kit Integration",
     Svg: require("@site/static/img/logo.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Seamlessly integrate UI Kits to access a ready-to-use collection of
+        components and styles, enabling you to build professional and consistent
+        designs with ease.
       </>
     ),
   },
   {
-    title: "Powered by React",
+    title: "Download Software",
     Svg: require("@site/static/img/logo.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Easily download and install the software on your preferred operating
+        system. Get the latest version and start designing right away.
+        <br />
+        <a href="https://github.com/edon-mark/site/releases">Download</a>
       </>
     ),
   },
